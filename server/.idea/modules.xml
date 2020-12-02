@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ts-server-xo-game.iml" filepath="$PROJECT_DIR$/.idea/ts-server-xo-game.iml" />
+      <module fileurl="file://$USER_HOME$/REACTJSProjects/xo-game/.idea/xo-game.iml" filepath="$USER_HOME$/REACTJSProjects/xo-game/.idea/xo-game.iml" />
+    </modules>
+  </component>
+</project>
